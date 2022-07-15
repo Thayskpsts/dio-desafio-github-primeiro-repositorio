@@ -1,0 +1,7 @@
+Comandos do Git para Windowns :
+- git init : iniciar repositório
+- git add : mover arquivos; conhecer comandos
+- git commit : criar primeiro commmit
+- ls : listar repositórios
+- ls -a : listar arquivos ocultos
+- git status : verificar estado dos arquivos/diretórios
