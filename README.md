@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
+# Repositório de Desafio da DIO
 Desafio Dio
